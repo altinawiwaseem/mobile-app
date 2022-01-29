@@ -4,15 +4,7 @@ main {
   display: flex;
   justify-content: space-evenly;
 }
-.imgs {
-  position: relative;
-  display: flex;
-}
-.imgs img {
-  width: 10rem;
-  height: 20rem;
-  position: absolute;
-}
+
 .text-box {
   
   width: 25vw;
@@ -23,6 +15,7 @@ main {
   position: relative;
   left: 3rem;
   color: var(--font-color);
+  margin-left: 8rem;
 }
 .text-box h1 {
   margin-bottom: 2rem;
@@ -51,4 +44,23 @@ input[type="submit"]:first-of-type {
  }
 #blue {
   background-color: rgb(35, 134, 192);
+  }
+  .imgs {
+    position: relative;
+    display: flex;
+  }
+  .imgs img {
+    width: 11rem;
+    height: 22rem;
+    margin-top: 2.5rem;
+    position: relative;
+    
+  }
+  
+  
+  #img2{
+      position:absolute;
+      height: 21.5rem;
+      top: .5rem;
+      right: 4rem;
   }
