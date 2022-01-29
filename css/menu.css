@@ -1,0 +1,21 @@
+header{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+nav{
+    width: 30vw;
+    padding: 3rem 0 ;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+nav ul li{
+    display: inline;
+    font-size: var(--nav-font-size);
+    color: var(--font-color);
+}
