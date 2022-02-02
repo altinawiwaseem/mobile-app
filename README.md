@@ -1,5 +1,6 @@
 # mobile-app
 **an assignment to make a mobile-app layout (copying a given photo)**   
+_For practicing purpose_
 
 
 [Test it by yourself](https://altinawiwaseem.github.io/mobile-app/)
@@ -14,10 +15,9 @@
 make a mobile-app layout (copying a given photo)
 - using html & css only
 - applying flex box design
-- making a nav using anchor tag and logo# mobile-app
+- making a nav using anchor tag and logo pic
 
-### How to use this project
-An assignment given by DCI institute for practicing purpose 
+
 
 #### Developed with
 - [x] _HTML5_
